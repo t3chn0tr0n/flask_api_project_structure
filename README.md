@@ -99,7 +99,7 @@ algorithm with a simple way to use it!
 
 #### Authentication and JWT Tokens
 
-- Most Used Rest-api Authentication Types and where to use what
+- Most Used Rest-api Authentication Types and where to use what!
   [Restcase article](https://blog.restcase.com/4-most-used-rest-api-authentication-methods/)
 - JWT Introduction: [JWT.io](https://jwt.io/introduction/)
 - JWT Detail Read: [Auth0 docs](https://auth0.com/docs/tokens/json-web-tokens)
