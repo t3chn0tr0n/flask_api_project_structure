@@ -7,7 +7,7 @@ Includes:
 1. A proper way to separate configs in Production, Development and Testing
 2. SQL Alchemy build-in, with CRUD operations
 3. Email service configured
-4. Password and Token Authentication handled using Argon2
+4. Password and Token Authentication handled using Argon2 and PyJWT
 5. Pymongo functions written to do basic CRUD operations
 
 i.e. most of the boring stuff done in one place!
